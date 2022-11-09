@@ -4,7 +4,7 @@
 
 ## 차트2 pie chrat : 2021년 1~4분기 commit 횟수
 
-## 차트3 line chrat : 2021년 1~4분기 commit 횟수
+## 차트3 line chrat : 2021~2022년 1~4분기 commit 횟수
 
 
 -----------------------------------------------------------------------
@@ -13,4 +13,4 @@
 
 [HTML 본문](https://github.com/WeslySloan/Game-Programming/blob/main/1109/chart.html) 
  
-[github.io-웹 호스팅](https://weslysloan.github.io/Game-Programming/)
+[netlify-웹 호스팅](https://weslsloanchart.netlify.app/)
